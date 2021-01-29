@@ -1,0 +1,33 @@
+h1{
+    margin:100px;
+    margin-left: 400px;  
+    font-style: italic;
+    font-size: 80px;
+}
+body{
+    background-color:#F5F5F5;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    border:20px;
+    background-color:#70D2FF;
+    justify-content: space-around;
+}
+.description p{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius:10px;
+}
+.items{
+    margin:20px;
+    border:solid;
+}
+.bodyimage{
+    margin-left:100px;
+    margin-top:20px ;
+}
